@@ -6,7 +6,7 @@ import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import Home from './components/home/Home';
 import EditRoom from './components/room/EditRoom';
 import Footer from './components/layout/Footer';
-import Navbar from './components/layout/NavBar';
+import Navbar from './components/layout/NavBar.jsx';
 import RoomListing from './components/room/RoomListing';
 import Admin from './components/admin/Admin';
 import CheckOut from './components/bookings/CheckOut';
